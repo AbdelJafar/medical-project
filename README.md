@@ -1,1 +1,1 @@
-This Frontend webaite aimed at easing the scheduling of appointment health centers was aimed at understanding how frontend technologies works
+This Frontend website aimed at easing the scheduling of appointment in health centers was aimed at understanding how frontend technologies works
